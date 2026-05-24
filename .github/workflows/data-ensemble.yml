@@ -1,0 +1,48 @@
+name: Refresh ICON-CH2-EPS ensemble
+
+on:
+  # MeteoSwiss publishes new runs at 00 / 06 / 12 / 18 UTC. Pull ~90 min after.
+  schedule:
+    - cron: "30 1,7,13,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-ensemble
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build ensemble probabilities
+        run: python ensemble.py
+
+      - name: Copy fresh ensemble.json into web/public/data
+        run: |
+          mkdir -p web/public/data
+          cp data/ensemble.json web/public/data/
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "weather-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add web/public/data/ensemble.json
+          if git diff --cached --quiet; then
+            echo "No ensemble change."
+          else
+            git commit -m "data: refresh ICON-CH2-EPS ensemble"
+            git push
+          fi

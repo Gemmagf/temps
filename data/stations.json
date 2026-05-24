@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "abo",
+    "name": "Adelboden",
+    "canton": "BE",
+    "lat": 46.491703,
+    "lon": 7.560703,
+    "height_masl": 1321.0
+  },
+  {
+    "id": "aeg",
+    "name": "Oberägeri",
+    "canton": "ZG",
+    "lat": 47.133636,
+    "lon": 8.608206,
+    "height_masl": 724.0
+  },
+  {
+    "id": "aig",
+    "name": "Aigle",
+    "canton": "VD",
+    "lat": 46.326647,
+    "lon": 6.924472,
+    "height_masl": 381.0
+  },
+  {
+    "id": "alt",
+    "name": "Altdorf",
+    "canton": "UR",
+    "lat": 46.887069,
+    "lon": 8.621894,
+    "height_masl": 438.0
+  },
+  {
+    "id": "and",
+    "name": "Andeer",
+    "canton": "GR",
+    "lat": 46.610139,
+    "lon": 9.431981,
+    "height_masl": 987.0
+  },
+  {
+    "id": "ant",
+    "name": "Andermatt",
+    "canton": "UR",
+    "lat": 46.630914,
+    "lon": 8.580553,
+    "height_masl": 1435.0
+  },
+  {
+    "id": "arh",
+    "name": "Altenrhein",
+    "canton": "SG",
+    "lat": 47.483631,
+    "lon": 9.56685,
+    "height_masl": 398.0
+  },
+  {
+    "id": "aro",
+    "name": "Arosa",
+    "canton": "GR",
+    "lat": 46.792661,
+    "lon": 9.679014,
+    "height_masl": 1878.0
+  },
+  {
+    "id": "att",
+    "name": "Les Attelas",
+    "canton": "VS",
+    "lat": 46.0991,
+    "lon": 7.26865,
+    "height_masl": 2734.0
+  },
+  {
+    "id": "ban",
+    "name": "Bantiger",
+    "canton": "BE",
+    "lat": 46.977806,
+    "lon": 7.528667,
+    "height_masl": 942.0
+  },
+  {
+    "id": "bas",
+    "name": "Basel / Binningen",
+    "canton": "BL",
+    "lat": 47.541142,
+    "lon": 7.583525,
+    "height_masl": 316.0
+  },
+  {
+    "id": "beh",
+    "name": "Passo del Bernina",
+    "canton": "GR",
+    "lat": 46.409158,
+    "lon": 10.019567,
+    "height_masl": 2260.0
+  },
+  {
+    "id": "ber",
+    "name": "Bern / Zollikofen",
+    "canton": "BE",
+    "lat": 46.990744,
+    "lon": 7.464061,
+    "height_masl": 553.0
+  },
+  {
+    "id": "bez",
+    "name": "Beznau",
+    "canton": "AG",
+    "lat": 47.557256,
+    "lon": 8.233325,
+    "height_masl": 326.0
+  },
+  {
+    "id": "bia",
+    "name": "Biasca",
+    "canton": "TI",
+    "lat": 46.336053,
+    "lon": 8.978197,
+    "height_masl": 278.0
+  },
+  {
+    "id": "bie",
+    "name": "Bière",
+    "canton": "VD",
+    "lat": 46.524908,
+    "lon": 6.342386,
+    "height_masl": 684.0
+  },
+  {
+    "id": "bin",
+    "name": "Binn",
+    "canton": "VS",
+    "lat": 46.367661,
+    "lon": 8.192306,
+    "height_masl": 1479.0
+  },
+  {
+    "id": "biv",
+    "name": "Bivio",
+    "canton": "GR",
+    "lat": 46.462494,
+    "lon": 9.668639,
+    "height_masl": 1856.0
+  },
+  {
+    "id": "biz",
+    "name": "Bischofszell / Sitterdorf",
+    "canton": "TG",
+    "lat": 47.508828,
+    "lon": 9.266797,
+    "height_masl": 507.0
+  },
+  {
+    "id": "bla",
+    "name": "BLA",
+    "canton": null,
+    "lat": 46.422231,
+    "lon": 7.825969,
+    "height_masl": null
+  },
+  {
+    "id": "bol",
+    "name": "Boltigen",
+    "canton": "BE",
+    "lat": 46.623519,
+    "lon": 7.384206,
+    "height_masl": 820.0
+  },
+  {
+    "id": "bou",
+    "name": "Bouveret",
+    "canton": "VS",
+    "lat": 46.393447,
+    "lon": 6.857006,
+    "height_masl": 374.0
+  },
+  {
+    "id": "brl",
+    "name": "La Brévine",
+    "canton": "NE",
+    "lat": 46.983844,
+    "lon": 6.610297,
+    "height_masl": 1050.0
+  },
+  {
+    "id": "brz",
+    "name": "Brienz",
+    "canton": "BE",
+    "lat": 46.740719,
+    "lon": 8.060864,
+    "height_masl": 567.0
+  },
+  {
+    "id": "buf",
+    "name": "Buffalora",
+    "canton": "GR",
+    "lat": 46.648408,
+    "lon": 10.2672,
+    "height_masl": 1971.0
+  },
+  {
+    "id": "bus",
+    "name": "Buchs / Aarau",
+    "canton": "AG",
+    "lat": 47.384381,
+    "lon": 8.07955,
+    "height_masl": 387.0
+  },
+  {
+    "id": "cdf",
+    "name": "La Chaux-de-Fonds",
+    "canton": "NE",
+    "lat": 47.082947,
+    "lon": 6.792314,
+    "height_masl": 1017.0
+  },
+  {
+    "id": "cdm",
+    "name": "Col des Mosses",
+    "canton": "VD",
+    "lat": 46.391525,
+    "lon": 7.098239,
+    "height_masl": 1412.0
+  },
+  {
+    "id": "cev",
+    "name": "Cevio",
+    "canton": "TI",
+    "lat": 46.320486,
+    "lon": 8.603161,
+    "height_masl": 417.0
+  },
+  {
+    "id": "cgi",
+    "name": "Nyon / Changins",
+    "canton": "VD",
+    "lat": 46.401053,
+    "lon": 6.227722,
+    "height_masl": 458.0
+  },
+  {
+    "id": "cha",
+    "name": "Chasseral",
+    "canton": "BE",
+    "lat": 47.131761,
+    "lon": 7.054367,
+    "height_masl": 1594.0
+  },
+  {
+    "id": "chb",
+    "name": "Les Charbonnières",
+    "canton": "VD",
+    "lat": 46.67015,
+    "lon": 6.312428,
+    "height_masl": 1045.0
+  },
+  {
+    "id": "chd",
+    "name": "Château-d'Oex",
+    "canton": "VD",
+    "lat": 46.479819,
+    "lon": 7.139656,
+    "height_masl": 1028.0
+  },
+  {
+    "id": "chm",
+    "name": "Chaumont",
+    "canton": "NE",
+    "lat": 47.049169,
+    "lon": 6.978825,
+    "height_masl": 1136.0
+  },
+  {
+    "id": "chu",
+    "name": "Chur",
+    "canton": "GR",
+    "lat": 46.870572,
+    "lon": 9.530761,
+    "height_masl": 556.0
+  },
+  {
+    "id": "chz",
+    "name": "Cham",
+    "canton": "ZG",
+    "lat": 47.188278,
+    "lon": 8.464642,
+    "height_masl": 443.0
+  },
+  {
+    "id": "cim",
+    "name": "Cimetta",
+    "canton": "TI",
+    "lat": 46.200467,
+    "lon": 8.79165,
+    "height_masl": 1661.0
+  },
+  {
+    "id": "cma",
+    "name": "Crap Masegn",
+    "canton": "GR",
+    "lat": 46.842275,
+    "lon": 9.180042,
+    "height_masl": 2468.0
+  },
+  {
+    "id": "com",
+    "name": "Acquarossa / Comprovasco",
+    "canton": "TI",
+    "lat": 46.459517,
+    "lon": 8.935486,
+    "height_masl": 575.0
+  },
+  {
+    "id": "cov",
+    "name": "Piz Corvatsch",
+    "canton": "GR",
+    "lat": 46.418039,
+    "lon": 9.821308,
+    "height_masl": 3294.0
+  },
+  {
+    "id": "coy",
+    "name": "Courtelary",
+    "canton": "BE",
+    "lat": 47.180811,
+    "lon": 7.090656,
+    "height_masl": 695.0
+  },
+  {
+    "id": "crm",
+    "name": "Cressier",
+    "canton": "NE",
+    "lat": 47.047581,
+    "lon": 7.059147,
+    "height_masl": 430.0
+  },
+  {
+    "id": "dav",
+    "name": "Davos",
+    "canton": "GR",
+    "lat": 46.812969,
+    "lon": 9.843558,
+    "height_masl": 1594.0
+  },
+  {
+    "id": "dem",
+    "name": "Delémont",
+    "canton": "JU",
+    "lat": 47.351706,
+    "lon": 7.349567,
+    "height_masl": 439.0
+  },
+  {
+    "id": "dia",
+    "name": "Les Diablerets",
+    "canton": "VD",
+    "lat": 46.32675,
+    "lon": 7.203781,
+    "height_masl": 2964.0
+  },
+  {
+    "id": "dis",
+    "name": "Disentis",
+    "canton": "GR",
+    "lat": 46.706569,
+    "lon": 8.853478,
+    "height_masl": 1197.0
+  },
+  {
+    "id": "dol",
+    "name": "La Dôle",
+    "canton": "VD",
+    "lat": 46.424794,
+    "lon": 6.099453,
+    "height_masl": 1670.0
+  },
+  {
+    "id": "ebk",
+    "name": "Ebnat-Kappel",
+    "canton": "SG",
+    "lat": 47.273389,
+    "lon": 9.108494,
+    "height_masl": 623.0
+  },
+  {
+    "id": "egh",
+    "name": "Eggishorn",
+    "canton": "VS",
+    "lat": 46.426528,
+    "lon": 8.092728,
+    "height_masl": 2892.0
+  },
+  {
+    "id": "ego",
+    "name": "Egolzwil",
+    "canton": "LU",
+    "lat": 47.179428,
+    "lon": 8.004758,
+    "height_masl": 522.0
+  },
+  {
+    "id": "ein",
+    "name": "Einsiedeln",
+    "canton": "SZ",
+    "lat": 47.133042,
+    "lon": 8.756556,
+    "height_masl": 911.0
+  },
+  {
+    "id": "elm",
+    "name": "Elm",
+    "canton": "GL",
+    "lat": 46.923742,
+    "lon": 9.175347,
+    "height_masl": 958.0
+  },
+  {
+    "id": "eng",
+    "name": "Engelberg",
+    "canton": "OW",
+    "lat": 46.821639,
+    "lon": 8.410514,
+    "height_masl": 1036.0
+  },
+  {
+    "id": "evi",
+    "name": "Evionnaz",
+    "canton": "VS",
+    "lat": 46.182953,
+    "lon": 7.026747,
+    "height_masl": 482.0
+  },
+  {
+    "id": "evo",
+    "name": "Evolène / Villa",
+    "canton": "VS",
+    "lat": 46.112211,
+    "lon": 7.508631,
+    "height_masl": 1825.0
+  },
+  {
+    "id": "fah",
+    "name": "Fahy",
+    "canton": "JU",
+    "lat": 47.423814,
+    "lon": 6.941194,
+    "height_masl": 596.0
+  },
+  {
+    "id": "flu",
+    "name": "Flühli, LU",
+    "canton": "LU",
+    "lat": 46.889436,
+    "lon": 8.020336,
+    "height_masl": 940.0
+  },
+  {
+    "id": "fre",
+    "name": "Bullet / La Frétaz",
+    "canton": "VD",
+    "lat": 46.840622,
+    "lon": 6.576369,
+    "height_masl": 1205.0
+  },
+  {
+    "id": "fru",
+    "name": "Frutigen",
+    "canton": "BE",
+    "lat": 46.599003,
+    "lon": 7.657542,
+    "height_masl": 756.0
+  },
+  {
+    "id": "gen",
+    "name": "Monte Generoso",
+    "canton": "TI",
+    "lat": 45.927592,
+    "lon": 9.017875,
+    "height_masl": 1600.0
+  },
+  {
+    "id": "ges",
+    "name": "Gersau",
+    "canton": "SZ",
+    "lat": 46.996069,
+    "lon": 8.523442,
+    "height_masl": 521.0
+  },
+  {
+    "id": "gih",
+    "name": "Giswil",
+    "canton": "OW",
+    "lat": 46.849447,
+    "lon": 8.190225,
+    "height_masl": 471.0
+  },
+  {
+    "id": "gla",
+    "name": "Glarus",
+    "canton": "GL",
+    "lat": 47.034586,
+    "lon": 9.066961,
+    "height_masl": 517.0
+  },
+  {
+    "id": "goe",
+    "name": "Gösgen",
+    "canton": "SO",
+    "lat": 47.363147,
+    "lon": 7.973733,
+    "height_masl": 380.0
+  },
+  {
+    "id": "gor",
+    "name": "Gornergrat",
+    "canton": "VS",
+    "lat": 45.983644,
+    "lon": 7.785944,
+    "height_masl": 3129.0
+  },
+  {
+    "id": "gos",
+    "name": "Göschenen",
+    "canton": "UR",
+    "lat": 46.692678,
+    "lon": 8.595364,
+    "height_masl": 950.0
+  },
+  {
+    "id": "gra",
+    "name": "Fribourg / Grangeneuve",
+    "canton": "FR",
+    "lat": 46.7714,
+    "lon": 7.113736,
+    "height_masl": 651.0
+  },
+  {
+    "id": "grc",
+    "name": "Grächen",
+    "canton": "VS",
+    "lat": 46.195314,
+    "lon": 7.836822,
+    "height_masl": 1605.0
+  },
+  {
+    "id": "gre",
+    "name": "Grenchen",
+    "canton": "SO",
+    "lat": 47.179097,
+    "lon": 7.415144,
+    "height_masl": 428.0
+  },
+  {
+    "id": "grh",
+    "name": "Grimsel Hospiz",
+    "canton": "BE",
+    "lat": 46.571689,
+    "lon": 8.333256,
+    "height_masl": 1980.0
+  },
+  {
+    "id": "gro",
+    "name": "Grono",
+    "canton": "GR",
+    "lat": 46.255075,
+    "lon": 9.163758,
+    "height_masl": 324.0
+  },
+  {
+    "id": "gsb",
+    "name": "Col du Grand St-Bernard",
+    "canton": "VS",
+    "lat": 45.869092,
+    "lon": 7.170683,
+    "height_masl": 2472.0
+  },
+  {
+    "id": "gue",
+    "name": "Gütsch, Andermatt",
+    "canton": "UR",
+    "lat": 46.652475,
+    "lon": 8.615531,
+    "height_masl": 2286.0
+  },
+  {
+    "id": "gut",
+    "name": "Güttingen",
+    "canton": "TG",
+    "lat": 47.601733,
+    "lon": 9.279428,
+    "height_masl": 440.0
+  },
+  {
+    "id": "gve",
+    "name": "Genève / Cointrin",
+    "canton": "GE",
+    "lat": 46.247519,
+    "lon": 6.127742,
+    "height_masl": 411.0
+  },
+  {
+    "id": "hai",
+    "name": "Salen-Reutenen",
+    "canton": "TG",
+    "lat": 47.651242,
+    "lon": 9.023911,
+    "height_masl": 719.0
+  },
+  {
+    "id": "hll",
+    "name": "Hallau",
+    "canton": "SH",
+    "lat": 47.697278,
+    "lon": 8.470464,
+    "height_masl": 419.0
+  },
+  {
+    "id": "hoe",
+    "name": "Hörnli",
+    "canton": "ZH",
+    "lat": 47.370864,
+    "lon": 8.941644,
+    "height_masl": 1133.0
+  },
+  {
+    "id": "ilz",
+    "name": "Ilanz",
+    "canton": "GR",
+    "lat": 46.775039,
+    "lon": 9.215353,
+    "height_masl": 698.0
+  },
+  {
+    "id": "int",
+    "name": "Interlaken",
+    "canton": "BE",
+    "lat": 46.672033,
+    "lon": 7.87045,
+    "height_masl": 578.0
+  },
+  {
+    "id": "jun",
+    "name": "Jungfraujoch",
+    "canton": "VS",
+    "lat": 46.547556,
+    "lon": 7.985444,
+    "height_masl": 3571.0
+  },
+  {
+    "id": "klo",
+    "name": "Zürich / Kloten",
+    "canton": "ZH",
+    "lat": 47.479611,
+    "lon": 8.535961,
+    "height_masl": 426.0
+  },
+  {
+    "id": "kop",
+    "name": "Koppigen",
+    "canton": "BE",
+    "lat": 47.11885,
+    "lon": 7.605503,
+    "height_masl": 485.0
+  },
+  {
+    "id": "lac",
+    "name": "Lachen / Galgenen",
+    "canton": "SZ",
+    "lat": 47.179197,
+    "lon": 8.858686,
+    "height_masl": 468.0
+  },
+  {
+    "id": "lae",
+    "name": "Lägern",
+    "canton": "ZH",
+    "lat": 47.481933,
+    "lon": 8.397222,
+    "height_masl": 845.0
+  },
+  {
+    "id": "lag",
+    "name": "Langnau i.E.",
+    "canton": "BE",
+    "lat": 46.939633,
+    "lon": 7.806425,
+    "height_masl": 744.0
+  },
+  {
+    "id": "lat",
+    "name": "Bergün / Latsch",
+    "canton": "GR",
+    "lat": 46.627275,
+    "lon": 9.753706,
+    "height_masl": 1408.0
+  },
+  {
+    "id": "lei",
+    "name": "Leibstadt",
+    "canton": "AG",
+    "lat": 47.597361,
+    "lon": 8.1882,
+    "height_masl": 341.0
+  },
+  {
+    "id": "lug",
+    "name": "Lugano",
+    "canton": "TI",
+    "lat": 46.004217,
+    "lon": 8.960322,
+    "height_masl": 273.0
+  },
+  {
+    "id": "luz",
+    "name": "Luzern",
+    "canton": "LU",
+    "lat": 47.036439,
+    "lon": 8.301022,
+    "height_masl": 454.0
+  },
+  {
+    "id": "mag",
+    "name": "Magadino / Cadenazzo",
+    "canton": "TI",
+    "lat": 46.160025,
+    "lon": 8.933672,
+    "height_masl": 203.0
+  },
+  {
+    "id": "mah",
+    "name": "Mathod",
+    "canton": "VD",
+    "lat": 46.736978,
+    "lon": 6.567983,
+    "height_masl": 435.0
+  },
+  {
+    "id": "mar",
+    "name": "Les Marécottes",
+    "canton": "VS",
+    "lat": 46.118903,
+    "lon": 7.016597,
+    "height_masl": 990.0
+  },
+  {
+    "id": "mas",
+    "name": "Marsens",
+    "canton": "FR",
+    "lat": 46.656486,
+    "lon": 7.069669,
+    "height_masl": 715.0
+  },
+  {
+    "id": "mer",
+    "name": "Meiringen",
+    "canton": "BE",
+    "lat": 46.732222,
+    "lon": 8.169247,
+    "height_masl": 589.0
+  },
+  {
+    "id": "mls",
+    "name": "Le Moléson",
+    "canton": "FR",
+    "lat": 46.546197,
+    "lon": 7.017753,
+    "height_masl": 1974.0
+  },
+  {
+    "id": "moa",
+    "name": "Mosen",
+    "canton": "LU",
+    "lat": 47.243847,
+    "lon": 8.232831,
+    "height_masl": 453.0
+  },
+  {
+    "id": "mob",
+    "name": "Montagnier, Bagnes",
+    "canton": "VS",
+    "lat": 46.071019,
+    "lon": 7.225272,
+    "height_masl": 839.0
+  },
+  {
+    "id": "moe",
+    "name": "Möhlin",
+    "canton": "AG",
+    "lat": 47.572197,
+    "lon": 7.877911,
+    "height_masl": 343.0
+  },
+  {
+    "id": "mte",
+    "name": "Mottec",
+    "canton": "VS",
+    "lat": 46.147897,
+    "lon": 7.624033,
+    "height_masl": 1580.0
+  },
+  {
+    "id": "mtr",
+    "name": "Matro",
+    "canton": "TI",
+    "lat": 46.410103,
+    "lon": 8.924742,
+    "height_masl": 2171.0
+  },
+  {
+    "id": "mub",
+    "name": "Mühleberg",
+    "canton": "BE",
+    "lat": 46.973278,
+    "lon": 7.278217,
+    "height_masl": 480.0
+  },
+  {
+    "id": "mve",
+    "name": "Montana",
+    "canton": "VS",
+    "lat": 46.298806,
+    "lon": 7.460814,
+    "height_masl": 1423.0
+  },
+  {
+    "id": "nap",
+    "name": "Napf",
+    "canton": "BE",
+    "lat": 47.004667,
+    "lon": 7.940117,
+    "height_masl": 1404.0
+  },
+  {
+    "id": "nas",
+    "name": "Naluns / Schlivera",
+    "canton": "GR",
+    "lat": 46.817164,
+    "lon": 10.2614,
+    "height_masl": 2380.0
+  },
+  {
+    "id": "neu",
+    "name": "Neuchâtel",
+    "canton": "NE",
+    "lat": 47.000067,
+    "lon": 6.953297,
+    "height_masl": 485.0
+  },
+  {
+    "id": "obr",
+    "name": "Oberriet / Kriessern",
+    "canton": "SG",
+    "lat": 47.376608,
+    "lon": 9.612706,
+    "height_masl": 409.0
+  },
+  {
+    "id": "oro",
+    "name": "Oron",
+    "canton": "VD",
+    "lat": 46.572269,
+    "lon": 6.858239,
+    "height_masl": 828.0
+  },
+  {
+    "id": "otl",
+    "name": "Locarno / Monti",
+    "canton": "TI",
+    "lat": 46.172256,
+    "lon": 8.787494,
+    "height_masl": 367.0
+  },
+  {
+    "id": "pay",
+    "name": "Payerne",
+    "canton": "VD",
+    "lat": 46.811581,
+    "lon": 6.942469,
+    "height_masl": 490.0
+  },
+  {
+    "id": "pfa",
+    "name": "Pfäffikon, ZH",
+    "canton": "ZH",
+    "lat": 47.376817,
+    "lon": 8.754864,
+    "height_masl": 537.0
+  },
+  {
+    "id": "pil",
+    "name": "Pilatus",
+    "canton": "OW",
+    "lat": 46.978869,
+    "lon": 8.252256,
+    "height_masl": 2105.0
+  },
+  {
+    "id": "pio",
+    "name": "Piotta",
+    "canton": "TI",
+    "lat": 46.514811,
+    "lon": 8.688039,
+    "height_masl": 990.0
+  },
+  {
+    "id": "plf",
+    "name": "Plaffeien",
+    "canton": "FR",
+    "lat": 46.747717,
+    "lon": 7.266264,
+    "height_masl": 1042.0
+  },
+  {
+    "id": "pma",
+    "name": "Piz Martegnas",
+    "canton": "GR",
+    "lat": 46.577181,
+    "lon": 9.529544,
+    "height_masl": 2668.0
+  },
+  {
+    "id": "pre",
+    "name": "St-Prex",
+    "canton": "VD",
+    "lat": 46.483683,
+    "lon": 6.443,
+    "height_masl": 425.0
+  },
+  {
+    "id": "psi",
+    "name": "Würenlingen / PSI",
+    "canton": "AG",
+    "lat": 47.536475,
+    "lon": 8.226944,
+    "height_masl": 334.0
+  },
+  {
+    "id": "puy",
+    "name": "Pully",
+    "canton": "VD",
+    "lat": 46.512283,
+    "lon": 6.667517,
+    "height_masl": 456.0
+  },
+  {
+    "id": "qui",
+    "name": "Quinten",
+    "canton": "SG",
+    "lat": 47.128739,
+    "lon": 9.21605,
+    "height_masl": 419.0
+  },
+  {
+    "id": "rag",
+    "name": "Bad Ragaz",
+    "canton": "SG",
+    "lat": 47.016631,
+    "lon": 9.502594,
+    "height_masl": 497.0
+  },
+  {
+    "id": "reh",
+    "name": "Zürich / Affoltern",
+    "canton": "ZH",
+    "lat": 47.427694,
+    "lon": 8.517953,
+    "height_masl": 444.0
+  },
+  {
+    "id": "rob",
+    "name": "Poschiavo / Robbia",
+    "canton": "GR",
+    "lat": 46.347217,
+    "lon": 10.063031,
+    "height_masl": 1078.0
+  },
+  {
+    "id": "roe",
+    "name": "Robièi",
+    "canton": "TI",
+    "lat": 46.443067,
+    "lon": 8.513389,
+    "height_masl": 1898.0
+  },
+  {
+    "id": "rue",
+    "name": "Rünenberg",
+    "canton": "BL",
+    "lat": 47.434572,
+    "lon": 7.879414,
+    "height_masl": 611.0
+  },
+  {
+    "id": "sae",
+    "name": "Säntis",
+    "canton": "AI",
+    "lat": 47.249447,
+    "lon": 9.343469,
+    "height_masl": 2501.0
+  },
+  {
+    "id": "sag",
+    "name": "Sattel, SZ",
+    "canton": "SZ",
+    "lat": 47.081064,
+    "lon": 8.636967,
+    "height_masl": 790.0
+  },
+  {
+    "id": "sam",
+    "name": "Samedan",
+    "canton": "GR",
+    "lat": 46.526247,
+    "lon": 9.879469,
+    "height_masl": 1709.0
+  },
+  {
+    "id": "sbe",
+    "name": "S. Bernardino",
+    "canton": "GR",
+    "lat": 46.463542,
+    "lon": 9.1847,
+    "height_masl": 1639.0
+  },
+  {
+    "id": "sbo",
+    "name": "Stabio",
+    "canton": "TI",
+    "lat": 45.843444,
+    "lon": 8.932364,
+    "height_masl": 351.0
+  },
+  {
+    "id": "scm",
+    "name": "Schmerikon",
+    "canton": "SG",
+    "lat": 47.224933,
+    "lon": 8.9403,
+    "height_masl": 408.0
+  },
+  {
+    "id": "scu",
+    "name": "Scuol",
+    "canton": "GR",
+    "lat": 46.793275,
+    "lon": 10.283267,
+    "height_masl": 1304.0
+  },
+  {
+    "id": "sha",
+    "name": "Schaffhausen",
+    "canton": "SH",
+    "lat": 47.689842,
+    "lon": 8.620142,
+    "height_masl": 438.0
+  },
+  {
+    "id": "sia",
+    "name": "Segl-Maria",
+    "canton": "GR",
+    "lat": 46.432331,
+    "lon": 9.762325,
+    "height_masl": 1804.0
+  },
+  {
+    "id": "sim",
+    "name": "Simplon-Dorf",
+    "canton": "VS",
+    "lat": 46.196825,
+    "lon": 8.056336,
+    "height_masl": 1465.0
+  },
+  {
+    "id": "sio",
+    "name": "Sion",
+    "canton": "VS",
+    "lat": 46.21865,
+    "lon": 7.330203,
+    "height_masl": 482.0
+  },
+  {
+    "id": "sma",
+    "name": "Zürich / Fluntern",
+    "canton": "ZH",
+    "lat": 47.377925,
+    "lon": 8.565742,
+    "height_masl": 556.0
+  },
+  {
+    "id": "smm",
+    "name": "Sta. Maria, Val Müstair",
+    "canton": "GR",
+    "lat": 46.602256,
+    "lon": 10.426314,
+    "height_masl": 1386.0
+  },
+  {
+    "id": "spf",
+    "name": "Schüpfheim",
+    "canton": "LU",
+    "lat": 46.947042,
+    "lon": 8.012442,
+    "height_masl": 744.0
+  },
+  {
+    "id": "srs",
+    "name": "Schiers",
+    "canton": "GR",
+    "lat": 46.975506,
+    "lon": 9.668075,
+    "height_masl": 626.0
+  },
+  {
+    "id": "stc",
+    "name": "St. Chrischona",
+    "canton": "BS",
+    "lat": 47.571767,
+    "lon": 7.687094,
+    "height_masl": 493.0
+  },
+  {
+    "id": "stg",
+    "name": "St. Gallen",
+    "canton": "SG",
+    "lat": 47.425475,
+    "lon": 9.398528,
+    "height_masl": 776.0
+  },
+  {
+    "id": "stk",
+    "name": "Steckborn",
+    "canton": "TG",
+    "lat": 47.668628,
+    "lon": 8.981433,
+    "height_masl": 397.0
+  },
+  {
+    "id": "tae",
+    "name": "Aadorf / Tänikon",
+    "canton": "TG",
+    "lat": 47.479892,
+    "lon": 8.904928,
+    "height_masl": 539.0
+  },
+  {
+    "id": "thu",
+    "name": "Thun",
+    "canton": "BE",
+    "lat": 46.749853,
+    "lon": 7.585222,
+    "height_masl": 570.0
+  },
+  {
+    "id": "tit",
+    "name": "Titlis",
+    "canton": "OW",
+    "lat": 46.770608,
+    "lon": 8.425981,
+    "height_masl": 3045.0
+  },
+  {
+    "id": "ueb",
+    "name": "Uetliberg",
+    "canton": "ZH",
+    "lat": 47.351364,
+    "lon": 8.490225,
+    "height_masl": 854.0
+  },
+  {
+    "id": "ulr",
+    "name": "Ulrichen",
+    "canton": "VS",
+    "lat": 46.504881,
+    "lon": 8.308236,
+    "height_masl": 1346.0
+  },
+  {
+    "id": "vab",
+    "name": "Valbella",
+    "canton": "GR",
+    "lat": 46.755039,
+    "lon": 9.554433,
+    "height_masl": 1568.0
+  },
+  {
+    "id": "vad",
+    "name": "Vaduz",
+    "canton": "FL",
+    "lat": 47.127472,
+    "lon": 9.517578,
+    "height_masl": 457.0
+  },
+  {
+    "id": "vev",
+    "name": "Vevey / Corseaux",
+    "canton": "VD",
+    "lat": 46.471239,
+    "lon": 6.815056,
+    "height_masl": 405.0
+  },
+  {
+    "id": "vio",
+    "name": "Vicosoprano",
+    "canton": "GR",
+    "lat": 46.353019,
+    "lon": 9.6278,
+    "height_masl": 1089.0
+  },
+  {
+    "id": "vis",
+    "name": "Visp",
+    "canton": "VS",
+    "lat": 46.3029,
+    "lon": 7.842958,
+    "height_masl": 639.0
+  },
+  {
+    "id": "vit",
+    "name": "Villars-Tiercelin",
+    "canton": "VD",
+    "lat": 46.621778,
+    "lon": 6.710069,
+    "height_masl": 859.0
+  },
+  {
+    "id": "vls",
+    "name": "Vals",
+    "canton": "GR",
+    "lat": 46.627758,
+    "lon": 9.188711,
+    "height_masl": 1242.0
+  },
+  {
+    "id": "wae",
+    "name": "Wädenswil",
+    "canton": "ZH",
+    "lat": 47.220958,
+    "lon": 8.677706,
+    "height_masl": 485.0
+  },
+  {
+    "id": "wfj",
+    "name": "Weissfluhjoch",
+    "canton": "GR",
+    "lat": 46.833325,
+    "lon": 9.806394,
+    "height_masl": 2691.0
+  },
+  {
+    "id": "wyn",
+    "name": "Wynau",
+    "canton": "BE",
+    "lat": 47.255025,
+    "lon": 7.787475,
+    "height_masl": 422.0
+  },
+  {
+    "id": "zer",
+    "name": "Zermatt",
+    "canton": "VS",
+    "lat": 46.029272,
+    "lon": 7.752433,
+    "height_masl": 1638.0
+  }
+]

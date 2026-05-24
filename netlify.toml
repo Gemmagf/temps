@@ -1,0 +1,10 @@
+# Netlify build settings.
+# Netlify clones the repo, runs the build below, and serves `web/dist/`.
+
+[build]
+  base = "web"
+  command = "npm ci && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
