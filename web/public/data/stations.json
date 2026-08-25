@@ -1161,11 +1161,11 @@
   },
   {
     "id":"ueb",
-    "name":"UEB",
-    "canton":null,
+    "name":"Uetliberg",
+    "canton":"ZH",
     "lat":47.351364,
     "lon":8.490225,
-    "height_masl":null
+    "height_masl":854.0
   },
   {
     "id":"ulr",
