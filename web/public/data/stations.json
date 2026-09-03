@@ -760,6 +760,14 @@
     "height_masl":589.0
   },
   {
+    "id":"mlj",
+    "name":"MLJ",
+    "canton":null,
+    "lat":46.561147,
+    "lon":7.016419,
+    "height_masl":null
+  },
+  {
     "id":"mls",
     "name":"Le Moléson",
     "canton":"FR",
