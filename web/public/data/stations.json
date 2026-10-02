@@ -761,11 +761,11 @@
   },
   {
     "id":"mlj",
-    "name":"MLJ",
-    "canton":null,
+    "name":"Le Moléson \/ Les Joux",
+    "canton":"FR",
     "lat":46.561147,
     "lon":7.016419,
-    "height_masl":null
+    "height_masl":1275.0
   },
   {
     "id":"mls",
